@@ -66,9 +66,3 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 
 ## Contact
 For any questions or feedback, please reach out to humaid.mohammed2006@gmail.com
-
-
-### Notes:
-
-2. **Assets Directory**: Ensure that the `README.md` file references the assets as per your directory structure.
-3. **Testing**: Test your game and ensure that the installation instructions are accurate before publishing the repository.
